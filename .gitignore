@@ -26,12 +26,17 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-
+.vscode
+.vscode/
+.vscode/settings.json
+.DS_Store
+settings.json
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
+*.json
 
 # Installer logs
 pip-log.txt
